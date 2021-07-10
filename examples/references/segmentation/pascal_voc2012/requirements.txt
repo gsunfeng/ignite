@@ -9,3 +9,4 @@ tensorboard
 torch
 torchvision
 tqdm
+networkx>=2.6 # not directly required, pinned by Snyk to avoid a vulnerability
