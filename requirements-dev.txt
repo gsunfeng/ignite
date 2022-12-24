@@ -22,3 +22,5 @@ scikit-image>=0.15.0
 # Examples dependencies
 pandas
 gym
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+wheel>=0.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
